@@ -1,6 +1,6 @@
 # Mass Shootings in USA (1982-2020) - Exploratory Analysis
 
-Analysis made on: 4 March 2020 by Andra Maraciuc
+Analysis made by Andra Maraciuc
 
 ## View this notebook in Jupyter nbviewer:
 - <b> Click here to view the project:</b> https://nbviewer.jupyter.org/github/andramarac/us-mass-shootings/blob/master/Mass%20Shootings%20US%20Mother%20Jones%20Analysis.ipynb
